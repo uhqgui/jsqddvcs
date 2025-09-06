@@ -1,0 +1,41 @@
+{
+  "keys": ["vitalii", "ococbino"],
+  "games": [
+    {
+      "app_id": "fairy1",
+      "title": "Five Nuts at Fairy",
+      "version": "1.0.0",
+      "archive_url": "https://pixeldrain.com/api/file/dTKcDPVQ",
+      "cover_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
+      "entry_win": "Fairy1/Fairy1.exe",
+      "approx_size": 550000000
+    },
+    {
+      "app_id": "fnaf2",
+      "title": "FNAF 2",
+      "version": "1.0.0",
+      "archive_url": "https://pixeldrain.com/api/file/<ID_FNAF2>",
+      "cover_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
+      "entry_win": "FNAF2/FNAF2.exe",
+      "approx_size": 300000000
+    },
+    {
+      "app_id": "fnaf3",
+      "title": "FNAF 3",
+      "version": "1.0.0",
+      "archive_url": "https://pixeldrain.com/api/file/AzTyyXEn",
+      "cover_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
+      "entry_win": "FNAF3/FNAF3.exe",
+      "approx_size": 300000000
+    },
+    {
+      "app_id": "fnaf4",
+      "title": "FNAF 4",
+      "version": "1.0.0",
+      "archive_url": "https://pixeldrain.com/api/file/CiPngHAJ",
+      "cover_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg",
+      "entry_win": "FNAF4/FNAF4.exe",
+      "approx_size": 400000000
+    }
+  ]
+}
